@@ -1,4 +1,4 @@
-## Hi there 👋 Eu sou João Vinicius, Tenho 17 anos estou gostando de ser dev.
+## Hi there 👋 Eu sou João Vinicius, Tenho 17 anos estou me tornando um dev.
 
 <!--Eu sou o João Vinicius
 **jo4ovinic1u5/jo4ovinic1u5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

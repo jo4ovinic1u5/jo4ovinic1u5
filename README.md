@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left"><br>- 📚 Eu estou aprendendo elementos de Front-end <br>- ⚡ No meu tempo livre eu gosto de jogar futebol e fazer música.</p>
+<p align="left"><br>- 📚 Eu estou aprendendo elementos de Front-end <br>- ⚡ No meu tempo livre eu gosto de jogar futebol, videogames e fazer música.</p>
 
 ###
 
